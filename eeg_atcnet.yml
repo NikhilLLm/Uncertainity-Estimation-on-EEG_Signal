@@ -1,0 +1,19 @@
+name: eeg_atcnet
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - tensorflow-gpu=2.10
+  - numpy=1.23
+  - scipy=1.10
+  - matplotlib=3.7
+  - scikit-learn=1.2
+  - pandas=2.0
+  - h5py=3.8
+  - mne=1.4
+  - tqdm=4.65
+  - pip
+  - pip:
+      - psychopy==2023.2
+prefix: /home/tushar/miniconda3/envs/eeg_atcnet
