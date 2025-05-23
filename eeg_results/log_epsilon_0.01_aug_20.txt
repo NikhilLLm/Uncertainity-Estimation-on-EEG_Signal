@@ -1,0 +1,89 @@
+
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.9336   kappa: 0.9114   softmax_variance: 0.0028   entropy: 1.3084
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.7492   kappa: 0.6658   softmax_variance: 0.0041   entropy: 1.3386
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9829   kappa: 0.9772   softmax_variance: 0.0018   entropy: 1.2937
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8871   kappa: 0.8492   softmax_variance: 0.0032   entropy: 1.3121
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7939   kappa: 0.7255   softmax_variance: 0.0034   entropy: 1.3020
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7787   kappa: 0.7050   softmax_variance: 0.0037   entropy: 1.3354
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.9697   kappa: 0.9596   softmax_variance: 0.0018   entropy: 1.2932
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8797   kappa: 0.8396   softmax_variance: 0.0027   entropy: 1.3014
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.9331   kappa: 0.9108   softmax_variance: 0.0028   entropy: 1.3113
+Subject 1, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.9359   Accuracy_TTA = 0.9336   Kappa_TTA = 0.9114
+Subject 2, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.7562   Accuracy_TTA = 0.7492   Kappa_TTA = 0.6658
+Subject 3, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.9817   Accuracy_TTA = 0.9829   Kappa_TTA = 0.9772
+Subject 4, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.8904   Accuracy_TTA = 0.8871   Kappa_TTA = 0.8492
+Subject 5, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.8007   Accuracy_TTA = 0.7939   Kappa_TTA = 0.7255
+Subject 6, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.7860   Accuracy_TTA = 0.7787   Kappa_TTA = 0.7050
+Subject 7, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.9711   Accuracy_TTA = 0.9697   Kappa_TTA = 0.9596
+Subject 8, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.8893   Accuracy_TTA = 0.8797   Kappa_TTA = 0.8396
+Subject 9, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.9280   Accuracy_TTA = 0.9331   Kappa_TTA = 0.9108
+Overall Average for Epsilon 0.01, Aug [5, 5, 5, 5] over 1 runs and 9 subjects:
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8787   Kappa_TTA = 0.8382
+
+Subject 1, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 2, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 3, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 4, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 5, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 6, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 7, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 8, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 9, Epsilon 0.01, Aug [5, 5, 5, 5], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Overall Average for Epsilon 0.01, Aug [5, 5, 5, 5] over 1 runs and 9 subjects:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+
+Error processing subject 1, epsilon 0.01, aug [5, 5, 5, 5]: 'NoneType' object has no attribute 'numpy'
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.9217   kappa: 0.8955   softmax_variance: 0.0029   entropy: 1.3088
+Run 1, Epsilon 0.01, Aug [5, 5, 5, 5], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.9117   kappa: 0.8822   softmax_variance: 0.0042   entropy: 1.3380
+Error processing subject 1, epsilon 0.01, aug [5, 5, 5, 5]: Only integers, slices (`:`), ellipsis (`...`), tf.newaxis (`None`) and scalar tf.int32/tf.int64 tensors are valid indices, got array([286, 287, 288, 294, 300])
+Error processing subject 1, epsilon 0.01, aug [5, 5, 5, 5]: Only integers, slices (`:`), ellipsis (`...`), tf.newaxis (`None`) and scalar tf.int32/tf.int64 tensors are valid indices, got array([283, 288, 289, 295, 296])
+Error processing subject 1, epsilon 0.01, aug [5, 5, 5, 5]: Exception encountered when calling layer "conv2d" "                 f"(type Conv2D).
+
+{{function_node __wrapped__Conv2D_device_/job:localhost/replica:0/task:0/device:GPU:0}} No algorithm worked!  Error messages:
+  Profiling failure on CUDNN engine eng1{}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 493565584 bytes.
+  Profiling failure on CUDNN engine eng28{}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine eng0{}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine eng53{k13=1,k23=0,k14=2,k2=5,k18=1}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 136095568 bytes.
+  Profiling failure on CUDNN engine eng55{k14=3,k23=0,k18=1,k22=0,k13=1,k2=8}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 612879568 bytes.
+  Profiling failure on CUDNN engine eng54{k12=-1,k14=3,k18=1,k23=0,k13=0,k17=1,k2=1,k15=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 2043724480 bytes.
+  Profiling failure on CUDNN engine eng56{k14=3,k23=0,k18=1,k13=1,k15=0,k22=0,k17=1,k12=-1,k2=8}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 1567384328 bytes.
+  Profiling failure on CUDNN engine eng54{k12=-1,k2=5,k15=0,k17=1,k13=1,k23=0,k18=1,k14=2}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 2044173704 bytes.
+  Profiling failure on CUDNN engine eng41{k2=0,k15=0,k17=1,k13=2,k23=0,k18=1,k14=3,k12=-1,k22=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 4427671616 bytes.
+  Profiling failure on CUDNN engine eng56{k15=0,k12=-1,k23=0,k18=1,k14=1,k22=0,k17=1,k2=6,k13=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 8241997888 bytes. [Op:Conv2D]
+
+Call arguments received by layer "conv2d" "                 f"(type Conv2D):
+  • inputs=tf.Tensor(shape=(301, 1125, 22, 1), dtype=float32)
+Error processing subject 1, epsilon 0.01, aug [5, 5, 5, 5]: Exception encountered when calling layer "conv2d" "                 f"(type Conv2D).
+
+{{function_node __wrapped__Conv2D_device_/job:localhost/replica:0/task:0/device:GPU:0}} No algorithm worked!  Error messages:
+  Profiling failure on CUDNN engine eng1{}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 493565584 bytes.
+  Profiling failure on CUDNN engine eng28{}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine eng0{}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine eng53{k23=0,k18=1,k2=5,k14=2,k13=1}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 136095568 bytes.
+  Profiling failure on CUDNN engine eng55{k14=3,k18=1,k23=0,k13=1,k2=8,k22=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 612879568 bytes.
+  Profiling failure on CUDNN engine eng54{k14=3,k12=-1,k2=1,k15=0,k17=1,k13=0,k23=0,k18=1}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 2043724480 bytes.
+  Profiling failure on CUDNN engine eng56{k18=1,k23=0,k12=-1,k17=1,k14=3,k2=8,k13=1,k22=0,k15=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 1567384328 bytes.
+  Profiling failure on CUDNN engine eng54{k12=-1,k17=1,k14=2,k2=5,k13=1,k15=0,k23=0,k18=1}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 2044173704 bytes.
+  Profiling failure on CUDNN engine eng41{k2=0,k15=0,k17=1,k13=2,k23=0,k18=1,k14=3,k12=-1,k22=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 4427671616 bytes.
+  Profiling failure on CUDNN engine eng56{k2=6,k14=1,k17=1,k12=-1,k23=0,k18=1,k15=0,k13=0,k22=0}: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 8241997888 bytes. [Op:Conv2D]
+
+Call arguments received by layer "conv2d" "                 f"(type Conv2D):
+  • inputs=tf.Tensor(shape=(301, 1125, 22, 1), dtype=float32)

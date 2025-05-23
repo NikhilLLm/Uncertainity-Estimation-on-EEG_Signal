@@ -1,0 +1,46 @@
+
+Subject 1, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 2, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 3, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 4, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 5, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 6, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 7, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 8, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Subject 9, Epsilon 0.05, Aug [10, 10, 10, 10], Average over 1 runs:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+Overall Average for Epsilon 0.05, Aug [10, 10, 10, 10] over 1 runs and 9 subjects:
+Accuracy_Orig = 0.0000   Accuracy_TTA = 0.0000   Kappa_TTA = 0.0000
+
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 1   best_run: 6   acc: 0.9221   kappa: 0.8962
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 1   best_run: 6   acc: 0.9190   orig_acc: 0.9359   aug_acc: 0.8000   kappa: 0.8920
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 2   best_run: 9   acc: 0.7368   orig_acc: 0.7562   aug_acc: 0.6000   kappa: 0.6492
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 3   best_run: 3   acc: 0.9744   orig_acc: 0.9817   aug_acc: 0.9250   kappa: 0.9659
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 4   best_run: 4   acc: 0.8806   orig_acc: 0.8904   aug_acc: 0.8250   kappa: 0.8406
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 5   best_run: 4   acc: 0.8101   orig_acc: 0.8007   aug_acc: 0.8750   kappa: 0.7471
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 6   best_run: 3   acc: 0.7725   orig_acc: 0.7860   aug_acc: 0.7000   kappa: 0.6968
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 7   best_run: 10   acc: 0.9054   orig_acc: 0.9711   aug_acc: 0.4500   kappa: 0.8738
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 8   best_run: 1   acc: 0.8907   orig_acc: 0.8893   aug_acc: 0.9000   kappa: 0.8542
+Run 1, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 9   best_run: 2   acc: 0.9046   orig_acc: 0.9280   aug_acc: 0.7500   kappa: 0.8727
+Run 1, Average of 9 subjects - best runs (epsilon=0.05, aug=40):
+Accuracy = 0.0000   Kappa = 0.8214
+
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 1   best_run: 6   acc: 0.9221   orig_acc: 0.9359   aug_acc: 0.8250   kappa: 0.8962
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 2   best_run: 9   acc: 0.7430   orig_acc: 0.7562   aug_acc: 0.6500   kappa: 0.6575
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 3   best_run: 3   acc: 0.9681   orig_acc: 0.9817   aug_acc: 0.8750   kappa: 0.9574
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 4   best_run: 4   acc: 0.8881   orig_acc: 0.8904   aug_acc: 0.8750   kappa: 0.8505
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 5   best_run: 4   acc: 0.8101   orig_acc: 0.8007   aug_acc: 0.8750   kappa: 0.7471
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 6   best_run: 3   acc: 0.7490   orig_acc: 0.7860   aug_acc: 0.5500   kappa: 0.6654
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 7   best_run: 10   acc: 0.9054   orig_acc: 0.9711   aug_acc: 0.4500   kappa: 0.8738
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 8   best_run: 1   acc: 0.8907   orig_acc: 0.8893   aug_acc: 0.9000   kappa: 0.8542
+Run 2, Epsilon 0.05, Aug [10, 10, 10, 10], Subject: 9   best_run: 2   acc: 0.9145   orig_acc: 0.9280   aug_acc: 0.8250   kappa: 0.8859
+Run 2, Average of 9 subjects - best runs (epsilon=0.05, aug=40):
+Accuracy = 0.0000   Kappa = 0.8209

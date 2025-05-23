@@ -1,0 +1,21 @@
+
+Subject 1, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.9359   Accuracy_TTA = 0.9280   Kappa_TTA = 0.9040
+Subject 2, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.7562   Accuracy_TTA = 0.7300   Kappa_TTA = 0.6402
+Subject 3, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.9817   Accuracy_TTA = 0.9773   Kappa_TTA = 0.9698
+Subject 4, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.8904   Accuracy_TTA = 0.8734   Kappa_TTA = 0.8310
+Subject 5, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.8007   Accuracy_TTA = 0.8174   Kappa_TTA = 0.7567
+Subject 6, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.7860   Accuracy_TTA = 0.7797   Kappa_TTA = 0.7063
+Subject 7, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.9711   Accuracy_TTA = 0.9580   Kappa_TTA = 0.9440
+Subject 8, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.8893   Accuracy_TTA = 0.8832   Kappa_TTA = 0.8442
+Subject 9, Epsilon 0.025, Aug [20, 20, 20, 20], Average over 1 runs:
+Accuracy_Orig = 0.9280   Accuracy_TTA = 0.9215   Kappa_TTA = 0.8953
+Overall Average for Epsilon 0.025, Aug [20, 20, 20, 20] over 1 runs and 9 subjects:
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8743   Kappa_TTA = 0.8324

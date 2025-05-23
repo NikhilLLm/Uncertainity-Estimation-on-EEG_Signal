@@ -1,0 +1,30 @@
+
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.9252   kappa: 0.9002   softmax_variance: 0.0027   entropy: 1.3092
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.7111   kappa: 0.6149   softmax_variance: 0.0040   entropy: 1.3380
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9677   kappa: 0.9569   softmax_variance: 0.0021   entropy: 1.2950
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8660   kappa: 0.8211   softmax_variance: 0.0032   entropy: 1.3138
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.8005   kappa: 0.7342   softmax_variance: 0.0032   entropy: 1.3002
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7680   kappa: 0.6907   softmax_variance: 0.0033   entropy: 1.3352
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.9680   kappa: 0.9573   softmax_variance: 0.0018   entropy: 1.2934
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8840   kappa: 0.8453   softmax_variance: 0.0025   entropy: 1.3005
+Run 1, Epsilon 0.025, Aug [40, 40, 40, 40], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.9340   kappa: 0.9119   softmax_variance: 0.0030   entropy: 1.3141
+Subject 1, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.9359   Accuracy_TTA = 0.9252   Kappa_TTA = 0.9002
+Subject 2, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.7562   Accuracy_TTA = 0.7111   Kappa_TTA = 0.6149
+Subject 3, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.9817   Accuracy_TTA = 0.9677   Kappa_TTA = 0.9569
+Subject 4, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.8904   Accuracy_TTA = 0.8660   Kappa_TTA = 0.8211
+Subject 5, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.8007   Accuracy_TTA = 0.8005   Kappa_TTA = 0.7342
+Subject 6, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.7860   Accuracy_TTA = 0.7680   Kappa_TTA = 0.6907
+Subject 7, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.9711   Accuracy_TTA = 0.9680   Kappa_TTA = 0.9573
+Subject 8, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.8893   Accuracy_TTA = 0.8840   Kappa_TTA = 0.8453
+Subject 9, Epsilon 0.025, Aug [40, 40, 40, 40], Average over 1 runs:
+Accuracy_Orig = 0.9280   Accuracy_TTA = 0.9340   Kappa_TTA = 0.9119
+Overall Average for Epsilon 0.025, Aug [40, 40, 40, 40] over 1 runs and 9 subjects:
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8694   Kappa_TTA = 0.8258

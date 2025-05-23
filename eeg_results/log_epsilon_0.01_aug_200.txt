@@ -1,0 +1,120 @@
+
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8857   kappa: 0.8475   softmax_variance: 0.0705   entropy: 0.9025
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6605   kappa: 0.5472   softmax_variance: 0.0797   entropy: 0.8582
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9493   kappa: 0.9323   softmax_variance: 0.0562   entropy: 0.9859
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8528   kappa: 0.8035   softmax_variance: 0.0747   entropy: 0.8782
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7752   kappa: 0.7005   softmax_variance: 0.0942   entropy: 0.7129
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7398   kappa: 0.6531   softmax_variance: 0.1170   entropy: 0.5327
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7736   kappa: 0.6979   softmax_variance: 0.0723   entropy: 0.8924
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8684   kappa: 0.8244   softmax_variance: 0.1158   entropy: 0.6860
+Run 1, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8901   kappa: 0.8534   softmax_variance: 0.1343   entropy: 0.4516
+Run 1, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8217   Kappa_TTA = 0.7622
+
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8628   kappa: 0.8170   softmax_variance: 0.0617   entropy: 0.9254
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.7122   kappa: 0.6163   softmax_variance: 0.0750   entropy: 0.8715
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9387   kappa: 0.9182   softmax_variance: 0.0544   entropy: 0.9912
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8551   kappa: 0.8066   softmax_variance: 0.0762   entropy: 0.8733
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7920   kappa: 0.7230   softmax_variance: 0.0945   entropy: 0.7114
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7614   kappa: 0.6820   softmax_variance: 0.1232   entropy: 0.5138
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7715   kappa: 0.6952   softmax_variance: 0.0704   entropy: 0.8958
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8769   kappa: 0.8358   softmax_variance: 0.1214   entropy: 0.6701
+Run 2, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8879   kappa: 0.8506   softmax_variance: 0.1262   entropy: 0.4733
+Run 2, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8287   Kappa_TTA = 0.7716
+
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8732   kappa: 0.8309   softmax_variance: 0.0675   entropy: 0.9088
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6915   kappa: 0.5887   softmax_variance: 0.0742   entropy: 0.8724
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9493   kappa: 0.9323   softmax_variance: 0.0543   entropy: 0.9918
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8318   kappa: 0.7754   softmax_variance: 0.0837   entropy: 0.8504
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7731   kappa: 0.6979   softmax_variance: 0.0995   entropy: 0.6974
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7205   kappa: 0.6274   softmax_variance: 0.1148   entropy: 0.5383
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7736   kappa: 0.6980   softmax_variance: 0.0740   entropy: 0.8865
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.9023   kappa: 0.8697   softmax_variance: 0.1145   entropy: 0.6859
+Run 3, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8793   kappa: 0.8391   softmax_variance: 0.1351   entropy: 0.4480
+Run 3, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8216   Kappa_TTA = 0.7621
+
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8669   kappa: 0.8226   softmax_variance: 0.0692   entropy: 0.9057
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.7081   kappa: 0.6108   softmax_variance: 0.0829   entropy: 0.8482
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9493   kappa: 0.9323   softmax_variance: 0.0568   entropy: 0.9832
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8668   kappa: 0.8223   softmax_variance: 0.0731   entropy: 0.8835
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7647   kappa: 0.6866   softmax_variance: 0.0996   entropy: 0.6967
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7277   kappa: 0.6371   softmax_variance: 0.1158   entropy: 0.5373
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7799   kappa: 0.7063   softmax_variance: 0.0784   entropy: 0.8748
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8938   kappa: 0.8584   softmax_variance: 0.1155   entropy: 0.6864
+Run 4, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8793   kappa: 0.8391   softmax_variance: 0.1332   entropy: 0.4539
+Run 4, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8263   Kappa_TTA = 0.7684
+
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8815   kappa: 0.8420   softmax_variance: 0.0675   entropy: 0.9105
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6936   kappa: 0.5914   softmax_variance: 0.0719   entropy: 0.8786
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9641   kappa: 0.9521   softmax_variance: 0.0538   entropy: 0.9924
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8645   kappa: 0.8191   softmax_variance: 0.0752   entropy: 0.8770
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7899   kappa: 0.7202   softmax_variance: 0.1018   entropy: 0.6911
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7084   kappa: 0.6113   softmax_variance: 0.1141   entropy: 0.5444
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7799   kappa: 0.7063   softmax_variance: 0.0678   entropy: 0.9046
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8747   kappa: 0.8329   softmax_variance: 0.1146   entropy: 0.6891
+Run 5, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8879   kappa: 0.8505   softmax_variance: 0.1285   entropy: 0.4658
+Run 5, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8272   Kappa_TTA = 0.7696
+
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8877   kappa: 0.8503   softmax_variance: 0.0687   entropy: 0.9064
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6874   kappa: 0.5832   softmax_variance: 0.0769   entropy: 0.8673
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9556   kappa: 0.9408   softmax_variance: 0.0560   entropy: 0.9873
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8668   kappa: 0.8223   softmax_variance: 0.0726   entropy: 0.8855
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7710   kappa: 0.6950   softmax_variance: 0.0996   entropy: 0.6965
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7566   kappa: 0.6756   softmax_variance: 0.1140   entropy: 0.5429
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7715   kappa: 0.6952   softmax_variance: 0.0703   entropy: 0.8979
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8705   kappa: 0.8273   softmax_variance: 0.1183   entropy: 0.6768
+Run 6, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8707   kappa: 0.8276   softmax_variance: 0.1331   entropy: 0.4536
+Run 6, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8264   Kappa_TTA = 0.7686
+
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8836   kappa: 0.8447   softmax_variance: 0.0659   entropy: 0.9152
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6791   kappa: 0.5721   softmax_variance: 0.0783   entropy: 0.8641
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9767   kappa: 0.9690   softmax_variance: 0.0563   entropy: 0.9853
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8551   kappa: 0.8066   softmax_variance: 0.0690   entropy: 0.8967
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7668   kappa: 0.6894   softmax_variance: 0.1055   entropy: 0.6815
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7253   kappa: 0.6338   softmax_variance: 0.1230   entropy: 0.5140
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7715   kappa: 0.6952   softmax_variance: 0.0719   entropy: 0.8938
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8662   kappa: 0.8216   softmax_variance: 0.1148   entropy: 0.6875
+Run 7, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8922   kappa: 0.8563   softmax_variance: 0.1328   entropy: 0.4555
+Run 7, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8241   Kappa_TTA = 0.7654
+
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8877   kappa: 0.8503   softmax_variance: 0.0694   entropy: 0.9052
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6874   kappa: 0.5831   softmax_variance: 0.0784   entropy: 0.8627
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9408   kappa: 0.9211   softmax_variance: 0.0555   entropy: 0.9876
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8621   kappa: 0.8160   softmax_variance: 0.0694   entropy: 0.8951
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7878   kappa: 0.7174   softmax_variance: 0.0964   entropy: 0.7056
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7422   kappa: 0.6563   softmax_variance: 0.1232   entropy: 0.5129
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7715   kappa: 0.6952   softmax_variance: 0.0673   entropy: 0.9065
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8769   kappa: 0.8358   softmax_variance: 0.1137   entropy: 0.6887
+Run 8, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8815   kappa: 0.8419   softmax_variance: 0.1301   entropy: 0.4635
+Run 8, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8264   Kappa_TTA = 0.7686
+
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.9064   kappa: 0.8752   softmax_variance: 0.0714   entropy: 0.8987
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6812   kappa: 0.5748   softmax_variance: 0.0822   entropy: 0.8514
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9429   kappa: 0.9239   softmax_variance: 0.0529   entropy: 0.9957
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8341   kappa: 0.7785   softmax_variance: 0.0826   entropy: 0.8541
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7668   kappa: 0.6894   softmax_variance: 0.1001   entropy: 0.6958
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7181   kappa: 0.6242   softmax_variance: 0.1200   entropy: 0.5232
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7841   kappa: 0.7119   softmax_variance: 0.0714   entropy: 0.8939
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8811   kappa: 0.8414   softmax_variance: 0.1146   entropy: 0.6874
+Run 9, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8858   kappa: 0.8477   softmax_variance: 0.1329   entropy: 0.4540
+Run 9, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8223   Kappa_TTA = 0.7630
+
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 1   best_run: 6   acc_orig: 0.9359   acc_tta: 0.8857   kappa: 0.8475   softmax_variance: 0.0673   entropy: 0.9104
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 2   best_run: 9   acc_orig: 0.7562   acc_tta: 0.6646   kappa: 0.5528   softmax_variance: 0.0833   entropy: 0.8478
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 3   best_run: 3   acc_orig: 0.9817   acc_tta: 0.9302   kappa: 0.9070   softmax_variance: 0.0589   entropy: 0.9784
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 4   best_run: 4   acc_orig: 0.8904   acc_tta: 0.8645   kappa: 0.8191   softmax_variance: 0.0744   entropy: 0.8793
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 5   best_run: 4   acc_orig: 0.8007   acc_tta: 0.7563   kappa: 0.6754   softmax_variance: 0.0966   entropy: 0.7043
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 6   best_run: 3   acc_orig: 0.7860   acc_tta: 0.7398   kappa: 0.6531   softmax_variance: 0.1194   entropy: 0.5260
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 7   best_run: 10   acc_orig: 0.9711   acc_tta: 0.7820   kappa: 0.7091   softmax_variance: 0.0764   entropy: 0.8815
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 8   best_run: 1   acc_orig: 0.8893   acc_tta: 0.8726   kappa: 0.8301   softmax_variance: 0.1132   entropy: 0.6910
+Run 10, Epsilon 0.01, Aug [50, 50, 50, 50], Subject: 9   best_run: 2   acc_orig: 0.9280   acc_tta: 0.8858   kappa: 0.8477   softmax_variance: 0.1290   entropy: 0.4651
+Run 10, Average of 9 subjects - best runs (epsilon=0.01, aug=200):
+Accuracy_Orig = 0.8822   Accuracy_TTA = 0.8202   Kappa_TTA = 0.7602
