@@ -49,7 +49,7 @@ We apply EMD on EEG trials to generate **artificial EEG frames** for Test-Time D
 - Metrics: Mean Accuracy, Accuracy Variance, Mean Kappa, Kappa Variance
 
 📊 _Plot: Accuracy vs Number of Frames (example)_  
-![EMD Results](./results/emd_results.png)
+![EMD Results](./results_pnd/emd_result.png)
 
 ---
 
