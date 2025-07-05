@@ -49,7 +49,7 @@ We apply EMD on EEG trials to generate **artificial EEG frames** for Test-Time D
 - Metrics: Mean Accuracy, Accuracy Variance, Mean Kappa, Kappa Variance
 
 📊 _Plot: Accuracy vs Number of Frames (example)_  
-![EMD Results](./results_pnd/emd_result.png)
+![EMD Results](results_png/emd_results.png)
 
 ---
 
@@ -81,11 +81,9 @@ We generate **adversarial yet physiological** EEG variations using Independent C
 - Evaluation: 10 runs using ATCNet
 - Metrics: Accuracy, Cohen’s Kappa, Entropy of Softmax
 
-📊 _Plot: Accuracy vs Epsilon_  
+📊 _Plot: Accuracy vs Epsilon and Uncertainty vs Epsilon 
 ![ICA Accuracy](./results/ica_fgsm_accuracy.png)
 
-📊 _Plot: Entropy vs Number of Augmentations_  
-![ICA Entropy](./results/ica_fgsm_entropy.png)
 
 ---
 
