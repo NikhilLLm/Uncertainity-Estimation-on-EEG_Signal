@@ -101,5 +101,5 @@ We generate **adversarial yet physiological** EEG variations using Independent C
 
 ---
 
-## 📁 Recommended Folder Structure
+
 
