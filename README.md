@@ -82,7 +82,7 @@ We generate **adversarial yet physiological** EEG variations using Independent C
 - Metrics: Accuracy, Cohen’s Kappa, Entropy of Softmax
 
 📊 _Plot: Accuracy vs Epsilon and Uncertainty vs Epsilon 
-![ICA Accuracy](./results/ica_fgsm_accuracy.png)
+![ICA Accuracy](./results_png/ica_fgsm_results.png)
 
 
 ---
